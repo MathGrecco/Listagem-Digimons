@@ -1,0 +1,66 @@
+/* Estilos globais */
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* Estilos da página Home */
+.home-title {
+  text-align: center;
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.home-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.home-item {
+  margin-bottom: 10px;
+}
+
+.home-link {
+  display: block;
+  text-decoration: none;
+  background-color: #f0f0f0;
+  padding: 10px;
+  border-radius: 4px;
+  color: #333;
+  transition: background-color 0.2s ease;
+}
+
+.home-link:hover {
+  background-color: #e0e0e0;
+}
+
+/* Estilos da página DigimonDetails */
+.details-title {
+  text-align: center;
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.details-image {
+  display: block;
+  margin: 0 auto;
+  width: 200px;
+  height: auto;
+  border-radius: 4px;
+}
+
+.details-info {
+  margin-top: 20px;
+}
+
+.details-info p {
+  margin-bottom: 10px;
+}
