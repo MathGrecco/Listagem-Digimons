@@ -1,3 +1,9 @@
+Olá,
+
+Trabalho final da matéria de Front-End, onde nele está sendo utilizado uma API de uma listagem de digimons
+onde retornará algumas caracteristicas deles.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
